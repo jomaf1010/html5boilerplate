@@ -1,0 +1,24 @@
+{
+  "name": "jomafboilerplate",
+  "version": "1.0.0",
+  "description": "Web Boilerplate",
+  "keywords": [
+    "jomaf"
+  ],
+  "authors": [
+    "Joseph John Fontanilla"
+  ],
+  "license": "MIT",
+  "homepage": "www.imjomaf.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.4.7",
+    "bootstrap-sass": "~3.3.5"
+  }
+}
